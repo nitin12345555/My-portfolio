@@ -83,7 +83,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Nitin Jagid :: MERN Stack Developer</title>
+        <title>Nitin Jangid :: MERN Stack Developer</title>
         <meta name="description" content="The futuristic portfolio of Nitin Jagid, a MERN Stack Developer crafting next-gen web experiences." />
       </Helmet>
       
