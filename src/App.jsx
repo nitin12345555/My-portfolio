@@ -100,7 +100,6 @@ function App() {
             transition={{ duration: 0.5, ease: 'easeOut' }}
             className="flex justify-between items-center py-8"
           >
-            <a href="#" className="font-bold text-2xl text-white tracking-tighter">N/J</a>
             <div className="flex items-center gap-6">
               <motion.a href="https://github.com/nitin12345555" target="_blank" rel="noopener noreferrer" whileHover={{ scale: 1.2, color: '#a78bfa' }} whileTap={{ scale: 0.9 }}>
                 <Github className="w-6 h-6 text-gray-400 transition-colors" />
