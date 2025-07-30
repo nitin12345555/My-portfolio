@@ -84,7 +84,7 @@ function App() {
     <>
       <Helmet>
         <title>Nitin Jangid :: MERN Stack Developer</title>
-        <meta name="description" content="The futuristic portfolio of Nitin Jagid, a MERN Stack Developer crafting next-gen web experiences." />
+        <meta name="description" content="The futuristic portfolio of Nitin Jangid, a MERN Stack Developer crafting next-gen web experiences." />
       </Helmet>
       
       <div className="bg-black text-gray-200 font-sans leading-normal tracking-normal">
