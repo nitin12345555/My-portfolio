@@ -24,7 +24,7 @@ function App() {
       title: "E-Commerce Platform",
       description: "A full-featured e-commerce website with product catalogs, shopping cart, and user authentication.",
       link: "https://e-commerce-website-woad-ten.vercel.app/",
-      tech: ["React","bootstrap","css"],
+      tech: ["React", "bootstrap", "css"],
     },
     {
       title: "Digital Agency Website",
@@ -36,13 +36,13 @@ function App() {
       title: "Interactive Web Page",
       description: "A creative web page demonstrating advanced UI/UX concepts with engaging animations and modern layouts. converting into code is under Development",
       link: "https://projects.animaapp.com/team/my-team-qmqw9hc/project/0Q4MKDp/screen/desktop-1/omniview",
-      tech: ["figma","Anima"],
+      tech: ["figma", "Anima"],
     },
     {
       title: "Crypto Live Pricing",
       description: "Real-time cryptocurrency price tracking application with live market data and intuitive data visualization.",
       link: "https://crypto-currency-project-phi.vercel.app/home",
-      tech: ["React", "node.js","express.js","mongodb","CSS"],
+      tech: ["React", "node.js", "express.js", "mongodb", "CSS"],
     }
   ];
 
@@ -86,11 +86,11 @@ function App() {
         <title>Nitin Jangid :: MERN Stack Developer</title>
         <meta name="description" content="The futuristic portfolio of Nitin Jangid, a MERN Stack Developer crafting next-gen web experiences." />
       </Helmet>
-      
+
       <div className="bg-black text-gray-200 font-sans leading-normal tracking-normal">
         <div className="absolute top-0 left-0 w-full h-full bg-grid-pattern opacity-20"></div>
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-black via-transparent to-black"></div>
-        
+
         <div className="relative container mx-auto px-4 z-10">
 
           {/* Header */}
@@ -114,7 +114,7 @@ function App() {
           <section className="min-h-[80vh] flex flex-col items-center justify-center text-center">
             <motion.div variants={containerVariants} initial="hidden" animate="visible">
               <motion.h1 variants={itemVariants} className="text-5xl md:text-8xl font-black text-white mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-                Nitin Jagid
+                Nitin Jangid
               </motion.h1>
               <motion.p variants={itemVariants} className="text-lg md:text-2xl text-gray-400 max-w-3xl mx-auto mb-8">
                 MERN Stack Developer crafting high-performance web applications with a futuristic edge.
@@ -127,13 +127,13 @@ function App() {
                   View My Creations
                 </Button>
                 <Button 
-                   onClick={() => window.open("https://flowcv.com/resume/gb79h1pd1pc1", "_blank")}
-                    variant="outline"
-                    className="border-purple-500/50 text-gray-300 hover:bg-purple-500/10 hover:text-white px-8 py-6 text-lg rounded-lg transition-all duration-300"
-                    >
-                    <Download className="w-5 h-5 mr-2" />
+                  onClick={() => window.open("https://flowcv.com/resume/gb79h1pd1pc1", "_blank")}
+                  variant="outline"
+                  className="border-purple-500/50 text-gray-300 hover:bg-purple-500/10 hover:text-white px-8 py-6 text-lg rounded-lg transition-all duration-300"
+                >
+                  <Download className="w-5 h-5 mr-2" />
                   Resume
-              </Button>
+                </Button>
               </motion.div>
             </motion.div>
           </section>
