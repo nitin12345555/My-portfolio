@@ -57,8 +57,7 @@ function App() {
     { name: "Git & GitHub", icon: Github },
     { name: "Figma", icon: Palette },
     { name: "Penpot", icon: Palette },
-    { name: "Uizard", icon: Palette },
-    { name: "Bito", icon: Code },
+    { name: "Cursor", icon: Palette },
     { name: "Loveable", icon: Code },
     { name: "WindSurf", icon: Code },
   ];
