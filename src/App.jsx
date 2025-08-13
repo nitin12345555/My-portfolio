@@ -33,10 +33,10 @@ function App() {
       tech: ["React", "TailwindCSS", "Framer Motion"],
     },
     {
-      title: "Interactive Web Page",
-      description: "A creative web page demonstrating advanced UI/UX concepts with engaging animations and modern layouts. converting into code is under Development",
-      link: "https://projects.animaapp.com/team/my-team-qmqw9hc/project/0Q4MKDp/screen/desktop-1/omniview",
-      tech: ["figma", "Anima"],
+      title: "Ai-virtual-assistant",
+      description: "Ai-Virtual-Assistant with react and gemin api",
+      link: "https://nitin-ai-virtual-assistant.netlify.app/",
+      tech: ["React" , "Gemini-Ai-Api"],
     },
     {
       title: "Crypto Live Pricing",
