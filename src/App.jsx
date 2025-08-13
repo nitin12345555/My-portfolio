@@ -21,10 +21,10 @@ function App() {
 
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce website with product catalogs, shopping cart, and user authentication.",
-      link: "https://e-commerce-website-woad-ten.vercel.app/",
-      tech: ["React", "bootstrap", "css"],
+      title: "Car-rental-website",
+      description: "A car rental website with imagekitio .",
+      link: "https://car-rental-sable-chi.vercel.app/",
+      tech: ["React" , "tailwind", "Node.js" ,"Express.js", "Mongodb"],
     },
     {
       title: "Digital Agency Website",
