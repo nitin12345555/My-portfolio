@@ -27,6 +27,12 @@ function App() {
       tech: ["React" , "tailwind", "Node.js" ,"Express.js", "Mongodb"],
     },
     {
+      title: "Quick-Chat-App",
+      description: "A qucik chat application",
+      link: "https://quick-chat-app-chi.vercel.app/login",
+      tech: ["React.js" , "Tailwind Css" , "Node.js", "Express.js", "Mongodb"],
+    },
+    {
       title: "Digital Agency Website",
       description: "A stunning digital agency website showcasing modern design and smooth animations to attract clients.",
       link: "https://digital-agency-website-swart.vercel.app/",
